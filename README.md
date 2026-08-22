@@ -1,10 +1,11 @@
 # GEOG 392/676: GIS PROGRAMMING
 >
->**Instructor:** Zhe Zhang, [zhezhang@tamu.edu](mailto:zhezhang@tamu.edu) | **Online Office Hours:** F 1:30 pm-2:30 pm  or by appt. |  [https://tamu.zoom.us/j/7322949427](https://tamu.zoom.us/j/7322949427)
+>**Instructor:** Xiaojing Tang, [xjtang@tamu.edu](mailto:xjtang@tamu.edu) | Office Hours:** M 1-3pm; WF 2-3pm or by appt.
 >
->**TA:** Zhenlei Song, [songzl@tamu.edu](mailto:songzl@tamu.edu) | **Office Hours:** Friday 2pm - 5pm or by appt. | **Office:** CSA 301F
+>**TA:** Yuhang Xie, [xieyuhang1997@tamu.edu](mailto:xieyuhang1997@tamu.edu) | **Office Hours:** TBD. | **Office:** TBD
+>**TA:** Aabeer Kumar Saha Aakash, [aabeer_1692@tamu.edu](mailto:aabeer1692@tamu.edu) | **Office Hours:** TBD. | **Office:** TBD
 >
->**Lecture:** MWF 10:20 am -11:10 am ; OMB 112
+>**Lecture:** MWF 10:20 am -11:10 am; OMB 112
 >
 >**Lab Sections:**
 >
@@ -13,6 +14,8 @@
 > 501: Thu 08:00 AM - 09:50 AM @CSA 311
 >
 > 502: Tue 08:00 AM - 09:50 AM @CSA 311
+>
+> 503: Fri 11:30 AM - 01:20 PM @CSA 307
 >
 
 ## Material Links
@@ -23,6 +26,9 @@
 |[Lab 02](Labs/Lab02/Lab02.md)|
 |[Lab 03](Labs/Lab03/Lab03.md)|
 |[Lab 04](Labs/Lab04/Lab04.md)|
+|[Lab 04](Labs/Lab05/Lab05.md)|
+|[Lab 04](Labs/Lab06/Lab06.md)|
+|[Lab 04](Labs/Lab07/Lab07.md)|
 
 ## Catalog Description
 
@@ -36,7 +42,7 @@ This class is an introduction to programming in general and an introduction to p
 
 This course is designed to introduce students to the basics of programming with modern programming languages in the context of development for and with GIS. Students will learn how to apply this knowledge to develop custom GIS applications and extensions that solve real-world problems. This course will provide students with a solid foundation in fundamental programming techniques and the knowledge to apply these techniques within GIS programming domains.
 
-The course will start with an introduction to fundamental programming structures and techniques and quickly advance to programming issues related to developing for GIS platforms including integration of their code into industry standard GIS platforms to extend the capabilities of these systems.
+The course will start with an introduction to fundamental programming structures and techniques and quickly advance to programming issues related to developing for GIS platforms, including integration of their code into industry-standard GIS platforms to extend the capabilities of these systems.
 
 The course will include a lecture component where theoretical issues are covered, and homework and lab-based exercises where students have the opportunity to practice implementing these techniques in the Python programming language.
 
@@ -45,9 +51,7 @@ This course will also include identification of and interaction with a real-worl
 At the end of this class, each student will be able to:
 
 1. Identify a set of requirements for the development of a software system;
-
 2. Implement standalone programming projects in Python to solve GIS problems;
-
-3. Integrate custom code into ArcGIS that customizes, automates, and extents its functionality;
+3. Integrate custom code into ArcGIS that customizes, automates, and extends its functionality;
 4. Programmatically access GIS data and use these data in GIS modeling, computation, visualization, and analysis; and
 5. Conceptualize, design, plan, implement, and document a custom GIS programming solution to a real-world problem.
