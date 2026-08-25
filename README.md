@@ -2,7 +2,7 @@
 >
 >**Instructor:** Xiaojing Tang, [xjtang@tamu.edu](mailto:xjtang@tamu.edu) | Office Hours:** M 1-3pm; WF 2-3pm or by appt.
 >
->**TA:** Yuhang Xie, [xieyuhang1997@tamu.edu](mailto:xieyuhang1997@tamu.edu) | **Office Hours:** TBD. | **Office:** TBD
+>**TA:** Yuhang Xie, [xieyuhang1997@tamu.edu](mailto:xieyuhang1997@tamu.edu) | **Office Hours:** T 10-12PM. | **Office:** CSA 203F
 >**TA:** Aabeer Kumar Saha Aakash, [aabeer_1692@tamu.edu](mailto:aabeer1692@tamu.edu) | **Office Hours:** TBD. | **Office:** TBD
 >
 >**Lecture:** MWF 10:20 am -11:10 am; OMB 112
@@ -26,9 +26,9 @@
 |[Lab 02](Labs/Lab02/Lab02.md)|
 |[Lab 03](Labs/Lab03/Lab03.md)|
 |[Lab 04](Labs/Lab04/Lab04.md)|
-|[Lab 04](Labs/Lab05/Lab05.md)|
-|[Lab 04](Labs/Lab06/Lab06.md)|
-|[Lab 04](Labs/Lab07/Lab07.md)|
+|[Lab 05](Labs/Lab05/Lab05.md)|
+|[Lab 06](Labs/Lab06/Lab06.md)|
+|[Lab 07](Labs/Lab07/Lab07.md)|
 
 ## Catalog Description
 
