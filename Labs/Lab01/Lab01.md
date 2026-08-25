@@ -89,9 +89,9 @@ You can use this link to help you write better looking Markdown files. Now that 
 
 ![Result](../../Images/lab01/lab01-Result-1.png)
 
-## Optional
+## Required
 
-1. Add me (Zhenlei Song, songzl@tamu.edu) as a collaborator.
+1. Add me (RMA1997, xieyuhang1997@tamu.edu) as a collaborator (For section 500, 501, 501 and 600).
 2. push local changes to remote repo.
 
     ```shell
