@@ -45,6 +45,9 @@
 [Git Download](https://git-scm.com/downloads)
 ![Git Download](../../Images/lab01/lab01-git-download.png)
 
+#### Anaconda
+
+[Anaconda Download](https://www.anaconda.com/download)
 #### VSCode
 
 [VSCode Download](https://code.visualstudio.com/download)
