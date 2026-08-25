@@ -9,7 +9,7 @@
 
 > **where**: canvas link
 > 
-> **when**: before next lab
+> **when**: before next Friday midnight
 >
 > **what**: screenshot of your VSCode `README.md`
 
