@@ -2,8 +2,9 @@
 >
 >**Instructor:** Xiaojing Tang, [xjtang@tamu.edu](mailto:xjtang@tamu.edu) | Office Hours:** M 1-3pm; WF 2-3pm or by appt.
 >
->**TA:** Yuhang Xie, [xieyuhang1997@tamu.edu](mailto:xieyuhang1997@tamu.edu) | **Office Hours:** T 10-12PM. | **Office:** CSA 203F
->**TA:** Aabeer Kumar Saha Aakash, [aabeer_1692@tamu.edu](mailto:aabeer1692@tamu.edu) | **Office Hours:** TBD. | **Office:** TBD
+>**TA:** Yuhang Xie(Section 500, 501, 502), [xieyuhang1997@tamu.edu](mailto:xieyuhang1997@tamu.edu) | **Office Hours:** T 10-12PM. | **Office:** CSA 203F
+>
+>**TA:** Aabeer Kumar Saha Aakash(Section 503), [aabeer_1692@tamu.edu](mailto:aabeer1692@tamu.edu) | **Office Hours:** TBD. | **Office:** TBD
 >
 >**Lecture:** MWF 10:20 am -11:10 am; OMB 112
 >
