@@ -48,7 +48,7 @@
 #### Anaconda
 
 [Anaconda Download](https://www.anaconda.com/download)
-![Anaconda Download]((../../Images/lab01/lab01-anaconda-download.png))
+![Anaconda Download](../../Images/lab01/lab01-anaconda-download.png)
 #### VSCode
 
 [VSCode Download](https://code.visualstudio.com/download)
