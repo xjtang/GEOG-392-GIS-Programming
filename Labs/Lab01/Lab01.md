@@ -9,9 +9,9 @@
 
 > **where**: canvas link
 > 
-> **when**: before next Friday midnight
+> **when**: 09/11/2026(Before 11:59pm)
 >
-> **what**: screenshot of your VSCode `README.md`
+> **what**: screenshot of your VSCode `README.md`; Link of your github Repo, make sure you added your TA as collaborator before submission
 
 ## **Outcomes:**
 
