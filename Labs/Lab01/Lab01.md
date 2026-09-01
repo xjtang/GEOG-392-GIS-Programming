@@ -61,7 +61,7 @@
 
 ## **Repo Setup**
 
-### SSH Keygen
+### SSH Keygen(Use Git Bash)
 
 ![SSH Keygen](../../Images/lab01/lab-01-sshkey.png)
 ![Locate Public Key](../../Images/lab01/lab-01-publickey.png)
