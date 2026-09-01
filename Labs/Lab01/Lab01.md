@@ -63,7 +63,8 @@
 
 ### SSH Keygen
 
-![SSH Keygen](../../Images/lab01/lab01-sshkeygen.png)
+![SSH Keygen](../../Images/lab01/lab01-sshkey.png)
+![Locate Public Key](../../Images/lab01/lab01-publickey.png)
 
 Locate your `public key` file and copy everything.
 Paste it in the Github Setting. So that ssh clone can be used.
