@@ -98,7 +98,7 @@ You can use this link to help you write better looking Markdown files. Now that 
 
 1. Within your Github Repository, add me (RMA1997, xieyuhang1997@tamu.edu) as a collaborator (For section 500, 501, 502 and 600).
 ![Add Collaborators](../../Images/lab01/lab-01-addCollaborators.png)
-2. push local changes to remote repo.
+2. In Git Bash, push local changes to remote repo.
 
     ```shell
     git add *
