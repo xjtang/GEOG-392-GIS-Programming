@@ -91,7 +91,7 @@ You can use this link to help you write better looking Markdown files. Now that 
 
 ## Results
 
-![Result](../../Images/lab01/lab01-Result-1.png)
+![Result](../../Images/lab01/lab-01-Results.png)
 
 ## Required
 
