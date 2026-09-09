@@ -111,7 +111,7 @@ else:
     ```shell
     cd <your github repo>
     git add *
-    git commit -m "Edited the main README.md"
+    git commit -m "Updated lab2.py"
     git push origin main
     ```
 ## **Useful Links:**
