@@ -106,7 +106,13 @@ else:
 - Add your codes to fill the blanks in the `lab2.py` file.
 - Add, commit, and push your changes to your remote repository.
 - Submit your assignment on Canvas.
+- In Git Bash, push local changes to remote repo.
 
+    ```shell
+    git add *
+    git commit -m "Edited the main README.md"
+    git push origin main
+    ```
 ## **Useful Links:**
 
 - [Modulo operation in Python](https://www.w3schools.com/python/python_operators.asp)
