@@ -9,9 +9,9 @@
 
 > **where**: canvas link
 >
-> **when**: before next lab
+> **when**: 10/2/2026, before 11:59PM
 >
-> **what**: a PDF including all your code and results
+> **what**: a PDF including all your code and results, link of your github with lab 2 code.
 
 ## **Task:**
 
