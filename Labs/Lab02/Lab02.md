@@ -109,6 +109,7 @@ else:
 - In Git Bash, push local changes to remote repo.
 
     ```shell
+    cd <your github repo>
     git add *
     git commit -m "Edited the main README.md"
     git push origin main
