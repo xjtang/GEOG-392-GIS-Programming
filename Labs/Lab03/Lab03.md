@@ -47,7 +47,9 @@ pip install geopandas
 import geopandas as gpd
 
 # Load the GeoJson file into a GeoDataFrame
-gdf = gpd.read_file('data/data.geojson')
+BASE_DIR = r'C:\Users\REPLACE WITH YOUR USER NAME\YOUR GITHUB REPO NAME\labs\lab3\lab3.ipynb'
+DATA_DIR = r'C:\Users\\YOUR GITHUB REPO NAME\labs\lab3\data\data.geojson'
+
 
 ```
 
