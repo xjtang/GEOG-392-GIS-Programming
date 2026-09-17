@@ -90,9 +90,27 @@ class CensusTract:
 Now you have finished the `CensusTract` class, you can use it to calculate the population density for each census tract (each row of the original dataset). Then add the calculated population density to a new column in the `GeoDataFrame`.
 
 ```python
+  # instantiate the CensusTract class
+if __name__ == "__main__":
+    
+    # load data into GeoDataFrame
+    gdf = gpd.read_file(r'C:\Users\REPLACE WITH YOUR USERNAME\YOUR GITHUB REPO NAME\labs\lab3\data\data.geojson')
+
+    # Ensure an equal-area CRS (meters) so .area is meaningful; EPSG:5070 is US Albers Equal Area
+    try:
+        gdf = gdf.to_crs(5070)
+    except Exception:
+        # If to_crs fails due to missing source CRS, leave as-is (user can fix upstream)
+        pass
+
+    # preview data
+    print(gdf.head())
+    print(gdf.columns)
+    print(gdf.shape)
+    print(gdf.dtypes)
     # calculate the Population Density based on geometry
     ### >>>>>>>>>>>> YOUR CODE HERE <<<<<<<<<<< ###
-    # instantiate the CensusTract class
+  
 
     # calculate the population density for each census tract
 
