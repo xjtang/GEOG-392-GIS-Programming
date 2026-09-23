@@ -40,7 +40,7 @@ This is a `vector` dataset containing the census tracts of `Brazos County`, `Tex
 Install `GeoPandas` library if you haven't done so already.
 
 ```bash
-pip install geopandas
+%pip install geopandas
 ```
 
 ```python
