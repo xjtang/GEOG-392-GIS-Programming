@@ -9,7 +9,7 @@
 
 > **where**: canvas link
 >
-> **when**: 10/24/2026, 11:59 PM.
+> **when**: 10/23/2026, 11:59 PM.
 >
 > **what**: a PDF including all your code and results
 
