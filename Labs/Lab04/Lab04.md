@@ -199,9 +199,8 @@ About the screenshot of terminal, refer to the steps below.
 1. Click on the triangle button in `VS Code` to run your codes.
    ![screenshot-1](./images/screenshot_1.png)
 
-2. Take a screenshot of the terminal window to show your codes can run without error.
-   ![screenshot-2](./images/screenshot_2.png)
-
+2. Take a screenshot of the outputs for the code cell to show your codes can run without error.
+   
 ## Useful Links
 
 - [ArcPy Documentation](https://pro.arcgis.com/en/pro-app/latest/arcpy/main/arcgis-pro-arcpy-reference.htm)
