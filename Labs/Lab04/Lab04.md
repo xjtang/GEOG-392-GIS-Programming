@@ -48,7 +48,9 @@ From this lab, we need to use the pre-installed `python` env from `ArcGIS Pro`. 
    ![prepare_3](./images/lab4-clone-arcpy3.png)
 5. Go to `VS Code` and activate this path as current `python` interpreter.
    ![prepare_4](./images/prepare_4.png)
-6. Find the `arcgispro-py3` path and select the `python.exe` under this path.
+   if you can find the cloned environment, use that instead
+   ![prepare_4](./images/lab4-choose-environment.png)
+7. Find the `arcgispro-py3` path and select the `python.exe` under this path.
    ![prepare_5](./images/prepare_5.png)
 
 **Then you should be able to use `arcpy` within this env.**
