@@ -196,7 +196,7 @@ To get full points, your submission should be a single PDF file including the fo
 - A screenshot of all your codes.
 - A screenshot of terminal shell that shows your codes run successfully (No errors).
 - A screenshot of the ArcGIS pro page shows how does your output GDB look like. (like in the `Results` section).
-- A link to your Github repo.
+- A link to your Github repo(optional).
 
 About the screenshot of terminal, refer to the steps below.
 
