@@ -322,10 +322,9 @@ To get full points, your submission should be a single PDF file including the fo
 
 | **Criteria**                                      | **Points** |
 |:--------------------------------------------------|:----------:|
-| **Code on GitHub (60 points total):**            |            |
-| Adequate commenting                               | 10         |
-| User input handling in GIS script                 | 15         |
-| Properly specified parameters in Python Toolbox    | 15         |
+| **Code on jupyter notebook (60 points total):**            |            |
+| User input handling in GIS script                 | 20         |
+| Properly specified parameters in Python Toolbox    | 20         |
 | Python Toolbox outputs:                           |          |
 | - Success messages                                | 10         |
 | - Failure messages (wrong building)               | 10         |
