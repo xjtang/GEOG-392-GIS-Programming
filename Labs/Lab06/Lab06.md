@@ -9,7 +9,7 @@
 
 > **where**: canvas link
 >
-> **when**: before next lab
+> **when**: 11/21/2026, 11:59 PM
 >
 > **what**: a PDF including all your code and results
 
